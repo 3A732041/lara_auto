@@ -1,0 +1,11 @@
+{
+    "name": "zhenyu/lara_auto",
+    "description": "autoload classes",
+    "authors": [
+        {
+            "name": "wang zhen yu",
+            "email": "asdfg10510588@gmail.com"
+        }
+    ],
+    "require": {}
+}
