@@ -1,5 +1,10 @@
 {
-    "name": "zhenyu/lara_auto",
+
+
+
+
+
+"name": "zhenyu/lara_auto",
     "description": "autoload classes",
     "authors": [
         {
@@ -7,5 +12,10 @@
             "email": "asdfg10510588@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "./src/Demo"
+        }
+    }
 }
